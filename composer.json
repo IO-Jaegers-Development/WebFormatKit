@@ -1,7 +1,7 @@
 {
     "name": "io-jaegers/webformat-kit",
     "type": "library",
-    "license": "MIT License",
+    "license": "MIT",
     "autoload":
     {
         "psr-4":
@@ -9,10 +9,14 @@
             "IoJaegers\\WebformatKit\\": "code/"
         }
     },
-    "authors": [
+    "authors":
+    [
         {
             "name": "Kent Madsen",
             "email": "kent.vejrup.madsen@designermadsen.dk"
         }
-    ]
+    ],
+    "require":
+    {
+    }
 }
